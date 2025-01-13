@@ -1,2 +1,0 @@
-# zamongtube-pc
-hexo
